@@ -10,8 +10,8 @@ Ryan Ly (LBNL) @rly
 
 ## Helping hands
 
-Yaroslav O. Halchenko (Dartmouth, DANDI) @yarikoptic
-John T. Wodder (Dartmouth, DANDI) @jwodder
+- Yaroslav O. Halchenko (Dartmouth, DANDI) @yarikoptic
+- John T. Wodder (Dartmouth, DANDI) @jwodder
 
 ## Project Description
 
@@ -33,6 +33,8 @@ NWB supports user-created extensions to the standard to add support for data typ
 <!-- 1. Describe the steps of your planned approach to reach the objectives.-->
 <!-- 1. ... -->
 ### 2. CI
+
+Initial implementation is ongoing in https://github.com/dandi/nwb-healthstatus
 
 - Cover following testing scenarios
    - save/load cycle resulting in identical data structure
